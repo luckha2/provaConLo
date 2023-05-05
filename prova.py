@@ -4,4 +4,3 @@ c = a + b
 
 print(f"{c}")
 print("Ciaoo")
-
